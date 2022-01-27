@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.info {
+  flex: 3;
+  margin: 0 1rem;
+  text-align: left;
+  font-size: 14px;
+  line-height: 1.5rem;
+}
+
+.info .name {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.github-profile {
+  display: flex;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.github-profile img {
+  flex: 1;
+}
+
+.userform {
+  background-color: lightgrey;
+  padding: 30px;
+}
+.inputuser {
+  vertical-align: middle;
+  line-height: 20px;
+}
+
+.addbtn {
+  line-height: 22px;
+  vertical-align: middle;
+}
